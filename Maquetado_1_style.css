@@ -2,11 +2,12 @@ body {
     margin: 0 auto;
     width: 1000px;
     height: 950px;
+    background-color: #2E8B57;
 }
 
 .nav {
     background-color: #FF0000;
-    padding: 20px;
+    padding: 10px;
     width: 1000px;
     height: 100px;
     text-align: center;
@@ -28,8 +29,8 @@ body {
 }
 
 .header {
-    background-color: #FF69B4;
-    padding: 20px;
+    background-color: #8A2BE2;
+    padding: 10px;
     width: 1000px;
     height: 300px;
     display: flex;
@@ -48,19 +49,19 @@ body {
     border: 2px solid black; 
 }
 
-.logo{
+.cube{
     text-align: center;
     background-color: #FFFFFF;
     width: 200px;
     height: 100px;
     margin-top: 1px;
     margin-left: 10px;
-    line-height: 100px; 
+    line-height: 100px;
 }
 
 .main{
-    background-color: #800000;
-    padding: 20px;
+    background-color: #7CFC00;
+    padding: 10px;
     width: 1000px;
     height: 500px;
     display: flex;
@@ -89,7 +90,7 @@ body {
 
 .footer{
     background-color: #DAA520;
-    padding: 20px;
+    padding: 10px;
     width: 1000px;
     height: 50px; 
     border: 2px solid black; 
